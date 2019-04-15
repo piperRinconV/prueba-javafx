@@ -3,6 +3,11 @@ package com.javafx.tiocoding.main.Main;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
+/**
+ * Esta es la clase principal del programa
+ * @author pipe rincon
+ *
+ */
 public class Main extends Application {
 
 	@Override
@@ -12,6 +17,7 @@ public class Main extends Application {
 	
 	}
 	
+	//metodo que inicia la aplicacion 
 	public static void main(String []a) {
 		
 		/**
@@ -23,6 +29,10 @@ public class Main extends Application {
 	/*
 	 * Probando con ramas
 	 * 
+	 */
+	
+	/**
+	 * Comentando el codigo
 	 */
 	
 }
